@@ -16,3 +16,13 @@ It will start web server with port 8080
 Access to localhost:8080 and you are good to go :)
 
 Have fun!
+
+
+
+![capture3](https://user-images.githubusercontent.com/32559085/39950914-264b8242-5553-11e8-9b76-968ce5aa2a61.PNG)
+
+![capture1](https://user-images.githubusercontent.com/32559085/39950869-bed00eb2-5552-11e8-920a-d19a7a88e7de.PNG)
+
+![capture2](https://user-images.githubusercontent.com/32559085/39950871-c148a7e4-5552-11e8-82ab-f941d7316a88.PNG)
+
+![capture](https://user-images.githubusercontent.com/32559085/39950878-cf4c83ce-5552-11e8-9f87-1e869d2b7ef2.PNG)
